@@ -1,0 +1,52 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore MacOS specific files
+.DS_Store
+
+# Ignore environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Ignore system files
+Thumbs.db
+Desktop.ini
+
+# Ignore logs and databases
+*.log
+*.sqlite
+*.db
+
+# Ignore compiled files
+*.o
+*.obj
+*.exe
+*.out
+
+# Ignore backup files
+*.bak
+*.swp
+*~
+
+# Ignore specific files related to your setup
+*.asm.o
+shellcode
+shellcode.bin
+
+# Ignore sensitive files (if any)
+secrets/
+
+# Ignore coverage and testing files
+.coverage
+coverage/
+
+# Ignore custom shellcode-server binary if any
+bin/shellcode-server
