@@ -8,4 +8,6 @@
     Microsoft Windows 7 Enterprise - Version 6.1 SP1 Build 7601 
     OS Name	Microsoft Windows XP Professional - Version	5.1.2600 SP3 Build 2600
 
-
+## Lab 1
+### Questions 1-3
+[link] 'https://github.com/blackTieV2/ZEIT8042/blob/main/ZEIT8042Lab1.ipynb'
