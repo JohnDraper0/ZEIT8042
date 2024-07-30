@@ -9,5 +9,5 @@
     OS Name	Microsoft Windows XP Professional - Version	5.1.2600 SP3 Build 2600
 
 ## Lab 1
-### Questions 1-4
+### Questions 1-5
 [link] 'https://github.com/blackTieV2/ZEIT8042/blob/main/ZEIT8042Lab1.ipynb'
