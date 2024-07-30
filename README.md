@@ -1,5 +1,5 @@
-# ZEIT8042
-## Lab and Assignment Notes for ZEIT8042 [2024Sem2]
+# ZEIT8042 [2024Sem2]
+## Lab and Assignment Notes
 ### Environmental Variables: 
   #### Host Machine 
     Microsoft Windows 10 Pro - Version	10.0.19045 Build 19045
